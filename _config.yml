@@ -1,18 +1,11 @@
 # The Site Configuration
 
 # Import the theme
-theme: "minimal-mistakes-jekyll"
+theme: jekyll-theme-chirpy
 
 plugins:
   - jekyll-paginate
   - jekyll-include-cache
-
-
-navigation:
-  - title: "Blog"
-    url: /
-  - title: "About"
-    url: /about/
 
 
 
